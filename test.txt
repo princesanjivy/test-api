@@ -1,0 +1,50 @@
+https://www.google.com/logos/2017/logo17/logo17.html?hl=en
+https://www.construct.net/en/free-online-games/circle-flip-2721/play
+
+aivyonity
+
+AIVYONITY
+
+princewebstudio
+
+PRINCEWEBSTUDIO
+
+================================================
+
+ffmpeg -i "input" -vf "transpose=1" "output"
+
+transpose 
+0 = 90CounterCLockwise and Vertical Flip (default)
+1 = 90Clockwise
+2 = 90CounterClockwise
+3 = 90Clockwise and Vertical Flip
+
+======================================================================
+
+ffmpeg -i "input"
+ -vf "drawtext=text='placeholder':x=10:y=H-th-10:
+               fontfile=/path/to/font.ttf:fontsize=12:fontcolor=white:
+               shadowcolor=black:shadowx=5:shadowy=5"
+"output"
+
+======================================================================
+
+ffmpeg -i "input" -ss 00:00:00 -to 00:00:30 output.mp4
+
+flutter create -a java --org com.princeappstudio APPNAME
+
+==============================================
+
+Hi, I'm Sanjivy from Pondy, India. A passionate developer who codes in Python, loves to build apps and games for android and web. Been coding for 4 years. Go ahead to check out my portfilo to know more about me and the projects I work on.
+
+
+Hey, this is Sanjivy K from the French city of India. A passionate coder in Python, loves to build apps and games for android and web. A a good problem solver with an experience of 4 years in Coding.Check out my portfolio to know my expressive work.
+
+Instare
+===========================
+
+
+s[(s.find('c') - 6) % 26]
+
+
+ffmpeg -i "https://r5---sn-h5576nee.googlevideo.com/videoplayback?expire=1613174728&ei=aMMmYKv2LsOo8wTpmZfIDQ&ip=52.23.166.253&id=o-AIHksNrGiBPgJI6WBnxY8W3Q_Yc2xhfbTt0h7D_p7PmC&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=a5TqTxl9XUaWgRSMrrZuFHMF&gir=yes&clen=17845843&ratebypass=yes&dur=287.834&lmt=1570277233047523&fvip=5&c=WEB&txp=5531432&n=OGSREtbPgWhyb-PuIv&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAN4mPp42pt0Cf_E5oZpVUwyCRsh8mw8zmOCGKj_ayUWyAiBxknxHCOAekKIzGk3s2v5Z8v1mE3hwglLuJXZ_e-VU7Q==&redirect_counter=1&rm=sn-p5qe7z76&req_id=c2ab25e4d32da3ee&cms_redirect=yes&ipbypass=yes&mh=y4&mip=117.213.74.172&mm=31&mn=sn-h5576nee&ms=au&mt=1613153282&mv=u&mvi=5&pl=18&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAKx-N4I-OtUsFe-2LcpZ4tNFMcjaecOFBdlBlT1ae9k0AiEAuJf908s6UBZEfnLM8YBIz4m_lX5x8dkUBikATsQLEAE%3D" -vf "drawtext=text='shared using YouShare':x=20:y=H-th-20:fontfile=font.ttf:fontsize=22:fontcolor=white@0.5" -ss 00:00:45 -to 00:01:15 status_video.mp4
